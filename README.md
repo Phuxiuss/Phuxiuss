@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, I'm Phuc 👋
+## About Me
+Game Engineer | Student at School4Games
 
 <!--
 **Phuxiuss/Phuxiuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
