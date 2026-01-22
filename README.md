@@ -1,8 +1,20 @@
-## Hello there, I'm Phuc 👋
-## About Me
-Game Engineer | Student at School4Games
+###  Hello, I'm Phuc 👋
+I'm a **Game Engineering Student** at [School4Games](https://www.school4games.net/) in Berlin, Germany.
 
+## Tech Skills
+-   **Languages:** C++, C#, GDScript
+-   **Engines:** Unreal Engine, Unity, Godot
+-   **Tools:** Perforce, TortoiseHG, Rider, Visual Studio
+
+## Project Overview
+| **Name** | **Engine/Tool** | **Language** | **Time** | Release |
+| :--- | :--- | :--- | :--- | :--- |
+| Calculator | Visual, SFML | C++ | 2 Weeks | Itch.io |
+| Everwrestle | Unreal | Blueprints, C++ | 10 Weeks | Itch.io |
+| Exodus | Unity | C# | 10 Weeks | Itch.io |
+| Armachinko | Godot | GDScript | 10 Weeks | Itch.io |
 <!--
+*   **Specializations:** Gameplay Programming, Tooling, Physics
 **Phuxiuss/Phuxiuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
