@@ -7,7 +7,7 @@ I'm a **Game Engineering Student** at [School4Games](https://www.school4games.ne
 -   **Tools:** Perforce, TortoiseHG, Rider, Visual Studio
 
 ## Project Overview
-| **Name** | **Engine/Tool** | **Language** | **Time** | Release |
+| **Project** | **Engine/Tool** | **Language** | **Time** | Release |
 | :--- | :--- | :--- | :--- | :--- |
 | Calculator | Visual, SFML | C++ | 2 Weeks | Github |
 | Everwrestle | Unreal 5 | Blueprints, C++ | 10 Weeks | Itch.io |
