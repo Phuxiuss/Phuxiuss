@@ -9,10 +9,10 @@ I'm a **Game Engineering Student** at [School4Games](https://www.school4games.ne
 ## Project Overview
 | **Name** | **Engine/Tool** | **Language** | **Time** | Release |
 | :--- | :--- | :--- | :--- | :--- |
-| Calculator | Visual, SFML | C++ | 2 Weeks | Itch.io |
+| Calculator | Visual, SFML | C++ | 2 Weeks | Github |
 | Everwrestle | Unreal 5 | Blueprints, C++ | 10 Weeks | Itch.io |
-| Exodus | Unity | C# | 10 Weeks | Itch.io |
-| Armachinko | Godot | GDScript | 10 Weeks | Itch.io |
+| Exodus | Unity | C# | 10 Weeks | [Itch.io](https://s4g.itch.io/exodus) |
+| Armachinko | Godot | GDScript | 10 Weeks | [Itch.io](https://s4g.itch.io/armachinko) |
 
 
 <!--
