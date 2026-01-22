@@ -1,4 +1,4 @@
-### Hello, I'am Phuc 👋
+### Hello, I'm Phuc 👋
 I'm a **Game Engineering Student** at [School4Games](https://www.school4games.net/) in Berlin, Germany.
 
 ## Tech Skills
