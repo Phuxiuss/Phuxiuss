@@ -7,7 +7,7 @@ I'm a **Game Engineering Student** at [School4Games](https://www.school4games.ne
 -   **Tools:** `Perforce`, `TortoiseHG`, `Rider`, `Visual Studio`
 
 ## Project Overview
-| **Project** | **Engine/Tool** | **Language** | **Time** | Release |
+| **Project** | **Engine/Tool** | **Language** | **Time** | **Release** |
 | :--- | :--- | :--- | :--- | :--- |
 | [EverWrestle](https://github.com/Phuxiuss/EverWrestle) | Unreal 5 | Blueprints, C++ | 10 Weeks | [Itch.io](https://s4g.itch.io/everwrestle)  |
 | [Calculator](https://github.com/Phuxiuss/Calculator-SFML) | Visual Studio, SFML | C++ | 3 Weeks | [GitHub](https://github.com/Phuxiuss/Calculator-SFML) |
