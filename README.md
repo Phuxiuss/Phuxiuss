@@ -3,9 +3,9 @@ I'm a **Game Engineering Student** at [School4Games](https://www.school4games.ne
 
 ## Tech Skills
 (★★★ = Advanced, ★★ = Intermediate, ★ = Familiar)
--   **Languages:** `UE Blueprints` `★★★`, `C++` `★★★`, `C#` `★★`, `GDScript` `★`
--   **Engines:** `Unreal Engine` `★★★`, `Unity` `★★★`, `Godot` `★`
--   **Tools:** `Visual Studio` `★★★`,`Rider` `★★`, `Perforce` `★★`, `TortoiseHG` `★`
+-   **Languages:** `UE Blueprints ★★★`, `C++ ★★★`, `C# ★★`, `GDScript ★`
+-   **Engines:** `Unreal Engine ★★★`, `Unity ★★★`, `Godot ★`
+-   **Tools:** `Visual Studio ★★★`,`Rider ★★`, `Perforce ★★`, `TortoiseHG ★`
 
 ## Project Overview
 | **Project** | **Engine/Tool** | **Language** | **Time** | **Date** | **Release** |
