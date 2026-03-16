@@ -2,7 +2,7 @@
 I'm a **Game Engineering Student** at [School4Games](https://www.school4games.net/) in Berlin, Germany.
 
 ## Tech Skills
--   **Languages:** `UE Blueprints ★★★`, `C++ ★★★`, `C# ★★`, `GDScript ★`
+-   **Languages:** `UE Blueprints ★★★`, `C++ ★★`, `C# ★★`, `GDScript ★`
 -   **Engines:** `Unreal Engine ★★★`, `Unity ★★★`, `Godot ★`
 -   **Tools:** `Visual Studio ★★★`,`Rider ★★`, `Perforce ★★`, `TortoiseHG ★` <br/>
 *(★★★ = Advanced, ★★ = Intermediate, ★ = Familiar)*
